@@ -53,3 +53,5 @@ You can quickly validate shell scripts using:
 ```bash
 bash -n ufw_fixer.sh
 ```
+## Read my blog 
+[blog.mkcloudai.com](https://blog.mkcloudai.com/?p=83)
