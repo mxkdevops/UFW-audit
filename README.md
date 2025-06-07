@@ -1,4 +1,4 @@
-# UFW-audit
+
 # 🔒 UFW Audit & Auto-Fix Script
 
 A simple yet powerful Bash script that audits and applies security best practices to your Ubuntu firewall (UFW). Ideal for developers, sysadmins, or anyone managing Linux servers.
